@@ -1,0 +1,25 @@
+{
+  "name": "recipescaler",
+  "version": "1.0.0",
+  "description": "Scale recipe ingredients",
+  "main": "iapp.js",
+  "scripts": {
+    "test": "echo \"No Test(s) specified\"",
+    "server": "nodemon ./app.js"
+  },
+  "keywords": [
+    "recipe",
+    "js",
+    "node",
+    "npm",
+    "food"
+  ],
+  "author": "soumik@cse.jgec.ac.in",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
